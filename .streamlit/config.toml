@@ -1,0 +1,8 @@
+# INAIBA dark premium theme (visual only - no runtime/behaviour settings).
+[theme]
+base = "dark"
+primaryColor = "#4F8CFF"
+backgroundColor = "#070B24"
+secondaryBackgroundColor = "#0C1738"
+textColor = "#EAF0FF"
+font = "sans serif"
